@@ -25,6 +25,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Irvin_S._Cobb
 description: Humorous description of a trip to the Grand Canyon, California, and other
   parts of the American West.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/19479#Roughing-it-De-Luxe
 gutenberg_issued: '2006-10-06'
 gutenberg_type: Text
 identifiers:
